@@ -1,2 +1,4 @@
 # connect-wallet-to-web
-Connect waller to web application using web3.js
+ - Connect wallet to web application using web3.js
+ - How to get Balance from wallet
+ - How to send transations
